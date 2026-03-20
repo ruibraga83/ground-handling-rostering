@@ -1,2 +1,3 @@
-# ground-handling-rostering
-Ground Handling App
+# Ground Handling Rostering System
+
+A production-ready SaaS platform.
