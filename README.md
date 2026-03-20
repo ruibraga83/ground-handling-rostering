@@ -1,3 +1,3 @@
 # Ground Handling Rostering System
 
-A production-ready SaaS platform.
+A comprehensive system for managing ground handling operations.
